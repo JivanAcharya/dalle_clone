@@ -6,6 +6,6 @@ The image saving is handled by Cloudinary and Vite is used for an effective Fron
 <br>
 <br>
 <h2>Check out the live application</h2>
-<a href="monumental-tiramisu-72a809.netlify.app">Click here</a>
+<a href="https://monumental-tiramisu-72a809.netlify.app/">Click here</a>
 <br>
 Frontend hosted on netlify and the backend hosted on Render.
